@@ -40,7 +40,7 @@ FolioReader-Android is an ePub reader written in Java.
 Add following dependency to your app build.gradle:
 
 ``` java
-compile 'com.folioreader:folioreader:0.4.0'
+implementation 'com.folioreader:folioreader:0.4.0'
 ```
 
 Add maven repository to your top level build.gradle:
